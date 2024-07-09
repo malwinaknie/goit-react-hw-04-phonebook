@@ -30,7 +30,7 @@ constructor() {
       })
     }
   }
-  //comment for new feature
+  //comment for new bug
   componentDidUpdate(prevProps, prevState) {
     if (this.state.contacts !== prevState.contacts) {
       localStorage.setItem('contacts', JSON.stringify(this.state.contacts));
