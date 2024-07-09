@@ -1,0 +1,14 @@
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 10;
+    background-color: #0b0b22;
+    color: white;
+    font-size: 25px;
+    padding: 50px;
+    
+}
