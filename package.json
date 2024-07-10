@@ -1,7 +1,6 @@
 {
   "name": "react-playground",
   "private": true,
-  "homepage": "https://malwinaknie.github.io/goit-react-hw-03-phonebook/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
